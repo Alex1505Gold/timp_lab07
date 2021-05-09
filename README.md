@@ -6,7 +6,7 @@ telegram - @Xacker_ducker
 
 Были выплнены следующие команды
 ```shell
-export GITHUB_USERNAME=<имя_пользователя>
+export GITHUB_USERNAME=Alex1505Gold
 alias gsed=sed
 cd ${GITHUB_USERNAME}/workspace
 pushd .
